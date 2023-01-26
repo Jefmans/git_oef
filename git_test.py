@@ -6,3 +6,4 @@ print("npg een lijn tekst")
 
 
 x =4 + 3
+print("Tekst Bert")
